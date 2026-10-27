@@ -17,7 +17,7 @@ except Exception as e:
     exit()
 
 # 2. Setup Google Gemini Free API
-api_key = ""
+api_key = "AQ.Ab8RN6LbGmkPg1-J2YXa7YM9b-cCALlLFV3TKEDktSrH6pHfog"
 client = genai.Client(api_key=api_key)
 
 # 3. Main Program Loop
